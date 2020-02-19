@@ -1,9 +1,13 @@
 ---
-title: Project Title 1
+title: Profile Page
 subtitle: Optional Project Subtitle
-date: '2019-05-10'
+date: 2020-02-18T06:00:00.000Z
 thumb_img_path: images/1_thumb.jpg
 content_img_path: images/1.jpg
+menus:
+  main:
+    title: Home
+    weight: 15
 template: project
 ---
 
